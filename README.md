@@ -13,3 +13,5 @@ npm install -g hordecode
 **Paused:** [PhantomLogos](https://github.com/siliconstencil/PhantomLogos), a local-first Python agent OS. Parts of it are planned to return inside hordecode.
 
 [siliconstencil.com](https://siliconstencil.com) · [x.com/siliconstencil](https://x.com/siliconstencil) · hello@siliconstencil.com
+
+Support the work: [GitHub Sponsors](https://github.com/sponsors/siliconstencil) · [Ko-fi](https://ko-fi.com/siliconstencil)
