@@ -1,6 +1,6 @@
 ### Silicon Stencil
 
-Independent software studio in California, since August 2025.
+AI engineering studio in California, since August 2025: custom agents, MCP servers, RAG and AI infrastructure.
 
 **Now:** [hordecode](https://hordecode.com), an AI coding agent for the terminal, with supervisor, harness and research pipelines, memory that stays on your machine, and your own keys and models.
 
